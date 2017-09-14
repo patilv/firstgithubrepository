@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1505417803521.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "CCCD828D",
+    "lastKnownWriteTime" : 1505418839,
+    "last_content_update" : 1505418839874,
+    "path" : "~/MyDataVizCourse/firstgithubrepository/firstgithub.Rmd",
+    "project_path" : "firstgithub.Rmd",
+    "properties" : {
+        "cursorPosition" : "34,0",
+        "scrollLine" : "23",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
